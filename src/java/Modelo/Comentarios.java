@@ -9,6 +9,6 @@ package Modelo;
  *
  * @author TuNombre
  */
-public class Sugerencia {
+public class Comentarios {
     
 }
